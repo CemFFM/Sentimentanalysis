@@ -14,5 +14,8 @@ I did this for users with not much programming skills but linguistical backgroun
 and to show/explain them how to do a comparison between sentence based vs document based sentimentanalysis
 Credits to all AVAILABLE FREE AND SIMPLE sentimentanalysis programms (dec. 2019) on github.
 Many thanks to everybody and of course to github for making this exchange and usage possible!
+
+
 Cemre Koc (Goethe University, Frankfurt) 
+
 made with Python3.7
