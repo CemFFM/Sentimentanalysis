@@ -11,7 +11,8 @@ special and many many thanks to https://github.com/vprusso/youtube_tutorials who
 page a tutorial on how to do a sentimentanalysis with python.
 
 I did this for users with not much programming skills but linguistical background to help them to get a corpus of twitterdata
-and to show/explain them how to do a comparison between sentence based vs document based sentimentanalysis
+and to show/explain them how to do a comparison between sentence based vs document based sentimentanalysis.
+
 Credits to all AVAILABLE FREE AND SIMPLE sentimentanalysis programms (dec. 2019) on github.
 Many thanks to everybody and of course to github for making this exchange and usage possible!
 
